@@ -11,7 +11,7 @@ const Header = () => {
       <div className={classes.profileWrapper}>
         <img
           className={classes.profilePicture}
-          src={"https://avatars1.githubusercontent.com/u/19200161?s=400&u=fd6ccd26d2915ee4dcf47e242f77850a5a1f50d0&v=4"}
+          src={"https://avatars1.githubusercontent.com/u/19200161?s=400&u=fd6ccd26d2915ee4dcf47e242f77850a5a1f50d0&v=4.jpg"}
           alt="Akash Vishwakarma"
         />
       </div>
