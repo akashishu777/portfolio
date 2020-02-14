@@ -5,13 +5,15 @@ import Socials from "../socials";
 
 import classes from "./header.module.css";
 
+import useSiteMetadata from '../../hooks/use-site-metadata'
+
 const Header = () => {
   return (
     <div className={classes.headerWrapper}>
       <div className={classes.profileWrapper}>
         <img
           className={classes.profilePicture}
-          src={imgSrc}
+          src={`${siteURL}${imgSrc}`}
           alt="Akash Vishwakarma"
         />
       </div>
