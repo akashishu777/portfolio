@@ -8,6 +8,9 @@ import classes from "./header.module.css";
 import useSiteMetadata from '../../hooks/use-site-metadata'
 
 const Header = () => {
+
+  const { siteURL } = useSiteMetadata();
+  
   return (
     <div className={classes.headerWrapper}>
       <div className={classes.profileWrapper}>
