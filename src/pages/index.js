@@ -37,7 +37,7 @@ const IndexPage = () => (
       <Link
         title="CodeWithAkash"
         link="https://www.youtube.com/channel/UCVlpi6qEkrdJpT1qDFmbbtQ"
-        desc="A YouTube Channal"
+        desc="A YouTube Channel"
       />
       <Link
         title="Personal Blog"
