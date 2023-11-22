@@ -23,9 +23,24 @@ const IndexPage = () => (
     </Section>
     <Section id="experience" title="Experience">
       <Link
+        title="Quillbot"
+        link="https://quillbot.com/"
+        desc="Full Stack Engineer, Dec 2022 - Present"
+      />
+      <Link
+        title="Haleon"
+        link="https://www.haleon.com/"
+        desc="Software Engineer, Jul 2022 - Dec 2022"
+      />
+      <Link
+        title="GSK"
+        link="https://www.gsk.com/en-gb/"
+        desc="Software Engineer, Dec 2021 - Jul 2022"
+      />
+      <Link
         title="Milliman India"
         link="https://us.milliman.com/"
-        desc="Associate Programmer, June 2017 - Present"
+        desc="Associate Programmer, June 2017 - Dec 2021"
       />
     </Section>
     <Section id="projects" title="Projects">
